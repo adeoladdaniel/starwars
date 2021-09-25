@@ -1,0 +1,13 @@
+.section {
+  padding: 0;
+
+  &-top{
+    background-image: url(https://c.tenor.com/EdfGnWrEDUQAAAAC/stars.gif);
+    background-size: cover;
+    width: 100%;
+    background-repeat: no-repeat;
+  }
+  &-bottom {
+    background-color: color(grey)
+  }
+}
